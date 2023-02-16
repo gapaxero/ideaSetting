@@ -1,0 +1,7 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="USE_HTTP_PROXY" value="true" />
+    <option name="PROXY_HOST" value="172.16.20.114" />
+    <option name="PROXY_EXCEPTIONS" value="*.ub;*.ubot.tw;*.ub.tw;*.ubt.tw;172.*.*.*;192.*.*.*;10.30.*.*;10.201.*.*;hoffice.ubot.com.tw;query.moeasmea.gov.tw;portal.nccc.com.tw;service.nccc.com.tw;mybank.ubot.com.tw;ubol.ubot.com.tw;ts.i-pass.com.tw" />
+  </component>
+</application>
